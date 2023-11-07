@@ -1,0 +1,16 @@
+.
+├── cat1
+│   ├── cat2
+│   │   ├── cat3
+│   │   │   ├── cat6
+│   │   │   └── cat7
+│   │   └── cat5
+│   └── cat8
+├── dir
+│   └── current_date
+├── LR_Tarasov_#1
+├── LR_Tarasov_#2
+├── Nun
+└── README.md
+
+8 directories, 5 files
