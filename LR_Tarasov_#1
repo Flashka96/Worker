@@ -1,1 +1,9 @@
-ghb
+man man# vivod stranizy rukovodstva komandy man
+info man# vivod stranizy rukovodstva komandy man v formate GNU textinfo
+echo# vivod pustoy stroky
+pwd# pokazyvaet polozhenie polzavatelya
+date# Tue 07 Nov 2023 08:24:41 PM +05
+who# admin1   tty1         2023-11-06 13:29
+ls# pockazaet katalog LR_Tarasov_#1
+cat# vivod soderzhimogo failov
+
