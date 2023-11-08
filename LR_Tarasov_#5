@@ -1,0 +1,16 @@
+Primeru opciy komandy ps
+-a# vidat vse processy systemy vklychai liderov seansov
+-d# vidat vse processy iskluchay liderov seansov
+-e# vidat vse processy system 
+-x# vidat processy systemy ne imeuchie kontrolnogo terminala
+-o# opredelayt format vivoda v vide spiska poley 
+-u# vidat processy prinadlezhachie ykazannomy polzavatelu
+
+Primeru komand
+ps# vidat snimok imeuchix v systeme processov
+top# vidat informacui o processax system 
+pstree# vivod dereva processov v systeme
+jobs# vidat spicok zadanui v tekychei sessii obolochky
+fg# peremestyt zadanye iz tekychei sessii na peredney plan
+bg# peremestyt zadanye iz tekychei sessii v fon
+kill# zaverchyt process otpravit signal processy
