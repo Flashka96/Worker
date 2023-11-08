@@ -1,0 +1,31 @@
+-name# ima faila
+-type# tip faila
+-newer# files s menishey datoi modificazii chem y zadanogo faila
+-mtime# data modifikacii faila
+-size# razmer faila
+-exec# vipolnenie nad naidenumi failami ykazannoi komandy
+-delete# ydalenie naidenih failov
+
+Primeri opciy komandy grep:
+-n# vivod nomera stroky sodezhashey shablon
+-c# vivod kolichestva strok sod. obrazec
+-i# ignorirovat registr simvolov
+-v# vivod vsex strok ne soderzhahix shablon
+
+Primer opciy komandy tar
+-r# dobavlenie failov k archivy
+-c# sozdait novogo archiva
+--delete# ydalenie failov iz arhiva
+-t# vivod soderzhimogo arhiva
+-x# izvlechenie failov iz arhiva
+-f# ispolzovanie archivnogo faila
+-v# vivod spiska obrabatuvanix failov
+
+.
+├── archive.tar
+├── filelist2.txt
+├── filelist3.txt
+├── filelist.txt
+├── filelist.tar
+
+13 directories, 8 files
